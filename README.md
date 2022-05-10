@@ -25,9 +25,10 @@ For this question you’ll need to use SQL. [Follow this link](https://www.w3sch
   
 
 1.  How many orders were shipped by Speedy Express in total?
-[click here for solution]
+[click here for solution](https://github.com/mr-emreerturk/shopify_questions/blob/main/SQL_challenge_1.sql)
     
 2.  What is the last name of the employee with the most orders?
+[click here for solution](https://github.com/mr-emreerturk/shopify_questions/blob/main/SQL_challenge_2.sql)
     
 3.  What product was ordered the most by customers in Germany?
-
+[click here for solution](https://github.com/mr-emreerturk/shopify_questions/blob/main/SQL_challenge_3.sql)
